@@ -1,1 +1,1 @@
-# End-to-End-DevOps-on-a-Golang-web-application
+# End-to-End DevOps on a Golang web-application
